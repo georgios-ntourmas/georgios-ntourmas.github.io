@@ -2,7 +2,7 @@
 title: "Generic stacks and application of composite rules for the detailed sizing of laminated structures"
 collection: publications
 permalink: /publication/paper-4
-excerpt: 'We use generic stacks to model the thickness and stiffness properties of the structure in a gradient-based optimisation and show that design guidelines can be more accurately formulated in this framework, hence avoiding unecessary design loops and reducing the structural mass'
+excerpt: 'We use generic stacks to model the thickness and stiffness properties of the structure in a gradient-based optimisation and show that design guidelines can be more accurately formulated in this framework, hence avoiding unnecessary design loops and reducing the structural mass'
 date: 15/11/2021
 venue: 'Composite Structures'
 paperurl: 'http://georgios-ntourmas.github.io/files/paper-4.pdf'
