@@ -2,7 +2,7 @@
 title: "Dynamics-Based Loads Monitoring Algorithm for Onboard Commercial Aircraft Usage"
 collection: publications
 permalink: /publication/paper-2
-excerpt: 'We develop and validate a dynamics-based algorithm used on-board a commercial aircrfat in order to accurately detect high-load in-flight events and avoid unecessary inspections'
+excerpt: 'We develop and validate a dynamics-based algorithm used on-board a commercial aircrfat in order to accurately detect high-load in-flight events and avoid unnecessary inspections'
 date: 28/05/2020
 venue: 'Journal of Aircraft'
 paperurl: 'http://georgios-ntourmas.github.io/files/paper-2.pdf'
