@@ -2,7 +2,7 @@
 title: "A mathematically assisted methodology for the experimental calculation of the internal gear ratios to extend the lifecycle of a hobbing machine"
 collection: publications
 permalink: /publication/paper-1
-excerpt: ''
+excerpt: 'bla'
 date: 16/06/2017
 venue: 'International Journal of Mechanical Engineering Education'
 paperurl: 'https://doi.org/10.1177/0306419017715425'
