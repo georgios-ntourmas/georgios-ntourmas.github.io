@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Georgios"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Marie Curie PhD Researcher at University of Nottingham working on detailed sizing optimisation of large-scale aerospace composite structures"
   location         : "Zürich, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DTTj1LkAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Georgios-Ntourmas-2"
+  researchgate     :  #example: "https://www.researchgate.net/profile/Georgios-Ntourmas-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "georgios-ntourmas"
+  github           : #"georgios-ntourmas"
   google_plus      :
   keybase          :
   instagram        :
